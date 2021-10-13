@@ -18,8 +18,6 @@ function draw() {
     circle(x, y, 2);
   }
   pop();
-
-  circle(mouseX, height - 20, 4);
 }
 
 function windowResized() {
